@@ -83,7 +83,7 @@
 * [popcorn - یک API برای دریافت اطلاعات فیلم و سریال](https://github.com/iazami/popcorn)
 
 ## روبی Ruby
-
+* [ارسال پیام در روبی \ریلز - kave SMS](https://github.com/mm580486/kave)
 * [jalalidate - کتابخانه تبدیل تاریخ جلالی میلادی در روبی](https://github.com/aziz/jalalidate)
 * [openstudio-standards - مبحث‌۱۹ در اپن استودیو - استاندارد های انرژی ایران برای اوپن‌استودیو](https://github.com/BHRC/openstudio-standards)
 * [erect - ارکت - نانو بیلد سیستم](https://github.com/pmkary/erect)
